@@ -1,5 +1,5 @@
 # Web3 Bank D-App
-This is a Project Management app like Trello, we can assign boards, tasks, sub-tasks to the members and many more.
+Web3 powered bank D-App made with kotlin, Jetpack Compose, Solidity, Ganache and Truffle.
 ## Screenshots 📷
 <img src="https://github.com/abhishekkr4747/Web3_Bank_DApp/assets/117996188/565fde8b-d3fe-4607-89f7-99732bc10ba7" width=20% height=20%> 
 
